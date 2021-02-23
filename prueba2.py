@@ -15,4 +15,6 @@ for numero in numeros:
 print("Menor:", menor)
 
 
-#**Jose Julian Ramirez**#
+   #**Jose Julian Ramirez**#
+   #*JoTaRt*#
+   #*jotaj1008r@gmail.com*#
